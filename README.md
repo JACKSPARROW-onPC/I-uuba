@@ -1,2 +1,2 @@
-# I-uuba
+# I₹uuba
 AI Expense management
